@@ -1,0 +1,3 @@
+[submodule "qma-main-source"]
+	path = qma-main-source
+	url = https://github.com/imprakhartripathi/QuantityMeasurementApp.git
